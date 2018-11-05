@@ -30,6 +30,7 @@ body {
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
     height: 440px;
+    position: relative;
 
 
 }
@@ -64,7 +65,7 @@ body {
 .bota {
     margin: 0px;
     position: absolute;
-    left: 100px;
+    right: 30px;
 
 }
 
